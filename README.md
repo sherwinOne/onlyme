@@ -52,4 +52,4 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smar
 项目地址：https://github.com/pedant/sweet-alert-dialog
 
 效果图：
-![Renderings](https://raw.githubusercontent.com/pedant/sweet-alert-dialog/master/change_type.gif）
+![Renderings](https://raw.githubusercontent.com/pedant/sweet-alert-dialog/master/change_type.gif)
