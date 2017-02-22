@@ -12,8 +12,7 @@ ViewPager页面切换视差效果
 自定义的 Tab title strip，基于 Google Samples 中的 android-SlidingTabBasic 项目，滑动时 Indicator 可平滑过渡。  
 项目地址：https://github.com/ogaclejapan/SmartTabLayout  
 Demo 地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smarttablayout.demo  
-效果图：![Renderings](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif) 
-
+效果图：
 ![alt text](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif "title1") 
 ![alt text](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif "title2") 
 ![alt text](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo3.gif "title3") 
