@@ -1,9 +1,10 @@
 
 # 一、图片滑动查看
-## 1.ParallaxViewPager
-
-![alt text](https://raw.githubusercontent.com/ybq/ParallaxViewPager/master/art/screen.gif "title")
-[Title](https://github.com/ybq/ParallaxViewPager)
+## 1. ParallaxViewPager  
+ViewPager页面切换视差效果  
+项目地址：https://github.com/ybq/ParallaxViewPager  
+效果图：    
+![Renderings](https://github.com/ybq/ParallaxViewPager/raw/master/art/screen.gif) 
 ## 2.
 
 # 二、 TabLayout（标题滑动）
