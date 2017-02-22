@@ -47,3 +47,9 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.ogaclejapan.smar
 效果图:
 ![Renderings](https://github.com/orhanobut/dialogplus/blob/master/art/dialogplus.gif)
 ![Renderings](https://github.com/orhanobut/dialogplus/blob/master/art/dialogplusanim.gif)
+
+## 1. sweet-alert-dialog 果冻弹出效果
+项目地址：https://github.com/pedant/sweet-alert-dialog
+
+效果图：
+![Renderings](https://raw.githubusercontent.com/pedant/sweet-alert-dialog/master/change_type.gif）
