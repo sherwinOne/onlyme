@@ -3,9 +3,10 @@
 ## 1.ParallaxViewPager
 
 ![alt text](https://raw.githubusercontent.com/ybq/ParallaxViewPager/master/art/screen.gif "title")
-
+[Title](https://github.com/ybq/ParallaxViewPager)
 ## 2.
-## 二、 TabLayout（标题滑动）
+
+# 二、 TabLayout（标题滑动）
 ## 1. SmartTabLayout 
 
 ![alt text](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo1.gif "title1") 
